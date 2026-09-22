@@ -1,15 +1,15 @@
-## 📊 Pesquisa de Opinião — TudoWeb
+# 📊 Pesquisa de Opinião — TudoWeb
 
 
 
 
-# 📌 Sobre o projeto
+## 📌 Sobre o projeto
 
 Este projeto foi desenvolvido durante meus estudos de Python para simular uma pesquisa de satisfação com clientes da empresa fictícia TudoWeb.
 
 O programa coleta o nome, idade e opinião dos entrevistados sobre o atendimento prestado.
 
-# 🎯 Objetivo
+## 🎯 Objetivo
 
 Realizar uma pesquisa com 50 entrevistados, utilizando estruturas de repetição e decisão para contabilizar:
 
@@ -18,7 +18,7 @@ Realizar uma pesquisa com 50 entrevistados, utilizando estruturas de repetição
 
 A opção BOM também pode ser registrada, mas não é contabilizada no resultado final, conforme solicitado na atividade.
 
-# ⚙️ Funcionamento
+## ⚙️ Funcionamento
 
 O entrevistado deve informar:
 
@@ -29,7 +29,7 @@ O entrevistado deve informar:
 - 2 - BOM
 - 3 - RUIM
 
-# O programa utiliza:
+## O programa utiliza:
 
 - 🔁 for para repetir a pesquisa;
 - 🔀 if e elif para verificar a opinião;
@@ -49,7 +49,7 @@ Após a validação, o programa foi configurado novamente para realizar a pesqui
 - app.py
 - 📚 Aprendizados
 
-# Com este projeto, pratiquei:
+## Com este projeto, pratiquei:
 
 Estrutura de repetição for;
 Estruturas condicionais if e elif;
@@ -59,4 +59,4 @@ Conversão de dados com int();
 Organização de um projeto Python;
 Publicação de projetos no GitHub.
 
-# ⭐ Projeto desenvolvido para fins de estudo durante minha aprendizagem de Python.
+## ⭐ Projeto desenvolvido para fins de estudo durante minha aprendizagem de Python.
