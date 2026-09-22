@@ -59,4 +59,4 @@ Conversão de dados com int();
 Organização de um projeto Python;
 Publicação de projetos no GitHub.
 
-# ⭐ Projeto desenvolvido para fins de estudo durante minha aprendizagem de Python.
+⭐ Projeto desenvolvido para fins de estudo durante minha aprendizagem de Python.
